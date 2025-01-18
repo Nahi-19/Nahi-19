@@ -1,5 +1,5 @@
 ![Totals Hits](https://komarev.com/ghpvc/?username=Nahi-19&style=flat&color=red&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/elfgk?label=Follow&style=social)](https://github.com/Nahi-19) 
+[![GitHub followers](https://img.shields.io/github/followers/Nahi-19?label=Follow&style=social)](https://github.com/Nahi-19) 
 <br>
 <br>
 
