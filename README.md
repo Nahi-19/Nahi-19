@@ -11,10 +11,9 @@
 </div>
 
 <h1 align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="150" height="150"/><br>
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65"/><br>
 </h1>
-        
-<h1 align="center"> 🎞️🤎🧋🧸</h1>
+       
 
   **I love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;
 
@@ -24,10 +23,10 @@
 
 🌱 I’m currently learning **HTML** and **CSS**.
 
-📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Nahi-19-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abedinnahiyan@gmail.com)](mailto:abedinnahiyan@gmail.com)
+📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abedinnahiyan@gmail.com)
 
 
-<h1 align="center"> 𓍢ִ໋☕️✧˚ ༘ ⋆ </h1>
+<h1 align="center"> 𓍢ִ໋☕️ ༘ ⋆ </h1>
 
 <h1> Connect with me: </h1>
 
@@ -61,7 +60,7 @@
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=elfgk&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Nahi-19&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nahi-19&custom_title=Nahi's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
@@ -93,24 +92,24 @@
     <tr>
       <td>
         <a href="https://github.com/Nahi-19/G3-Architect-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nahi-19&repo=SecretNotes&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nahi-19&repo=G3-Architect-Website&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/Nahi-19/Assinment-1">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nahi-19&repo=Turtle&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Nahi-19/Assignment-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nahi-19&repo=Assignment-1&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/Nahi-19/My-Portfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nahi-19&repo=BMI&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nahi-19&repo=My-Portfolio&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Nahi-19/Street-Treats">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nahi-19&repo=metinden-sese-cevirme&theme=highcontrast&hide_border=true&border_radius=15" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nahi-19&repo=Street-Treats&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
